@@ -6,6 +6,11 @@ Welcome to the Weather Dashboard, in this application, the user will be able to 
 
 ## Mock up
 
+Live URL: https://lcsantana1.github.io/weather-dashboard/
+
+![Screen Shot 2022-11-06 at 11 03 43 PM](https://user-images.githubusercontent.com/106941418/200237304-5f2c685d-0ca6-4750-950b-edcbf5c7fc09.png)
+
+
 
 ## User Story
 
